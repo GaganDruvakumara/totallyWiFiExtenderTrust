@@ -8,7 +8,7 @@
 * It makes the range of your WiFi bigger
 
 ## PCB
-Front (back is just silkscreen, you can see in 3d model)
+Front (back is just silkscreen & USB pads, you can see in 3d model)
 <img width="1170" height="479" alt="image" src="https://github.com/user-attachments/assets/f8fa57e3-031b-41e1-951e-eb3279bccea7" />
 Front
 <img width="923" height="334" alt="image" src="https://github.com/user-attachments/assets/3ff95d1a-d9c8-4def-8873-389b516e0c4c" />
