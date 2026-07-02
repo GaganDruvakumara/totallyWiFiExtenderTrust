@@ -1,0 +1,12 @@
+Reference,Quantity,Part,Footprint,Unit Price (USD),Total Price (USD)
+AE1,1,Antenna,RF_Antenna:Texas_SWRA117D_2.4GHz_Left,1.50,1.50
+AE2,1,External Antenna / U.FL Connector,Connector_Coaxial:U.FL_Hirose_U.FL-R-SMT-1_Vertical,0.80,0.80
+C1,C2,2,100nF Capacitor,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,0.01,0.02
+D1,1,Zener Diode 5.1V,Diode_SMD:D_SOD-123,0.05,0.05
+Q1,1,MMBT3904 (NPN Transistor),Package_TO_SOT_SMD:SOT-23,0.03,0.03
+R1,1,470Ω Resistor,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,0.005,0.005
+R2,R3,2,10kΩ Resistor,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,0.005,0.01
+R4,1,1kΩ Resistor,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,0.005,0.005
+R5,1,220Ω Resistor,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,0.005,0.005
+R6,1,100kΩ Resistor,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,0.005,0.005
+Y1,1,CVCO55xx RF Oscillator,RF_Mini-Circuits:Mini-Circuits_CK605_LandPatternPL-012,5.00,5.00
