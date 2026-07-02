@@ -9,4 +9,6 @@ R2,R3,2,10kΩ Resistor,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,
 R4,1,1kΩ Resistor,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,0.005,0.005
 R5,1,220Ω Resistor,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,0.005,0.005
 R6,1,100kΩ Resistor,Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder,0.005,0.005
+
+Optional
 Y1,1,CVCO55xx RF Oscillator,RF_Mini-Circuits:Mini-Circuits_CK605_LandPatternPL-012,5.00,5.00
