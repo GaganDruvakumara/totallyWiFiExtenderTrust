@@ -28,7 +28,7 @@ Back
 | R4        | 1   | 1 kΩ Resistor                     | Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                | 0.005            | 0.005             |
 | R5        | 1   | 220 Ω Resistor                    | Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                | 0.005            | 0.005             |
 | R6        | 1   | 100 kΩ Resistor                   | Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder                | 0.005            | 0.005             |
-| Y1        | 1   | CVCO55xx RF VCO (Mini-Circuits)   | RF_Mini-Circuits:Mini-Circuits_CK605_LandPatternPL-012                  | 5.00             | 5.00              |
+| Y1 (Optional)        | 1   | CVCO55xx RF VCO (Mini-Circuits)   | RF_Mini-Circuits:Mini-Circuits_CK605_LandPatternPL-012                  | 5.00             | 5.00              |
 Estimated Total Cost: ≈ $7.40 USD
 
 Slack: @gagan222009
